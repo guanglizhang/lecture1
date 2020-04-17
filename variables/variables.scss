@@ -2,6 +2,7 @@ $color: red;
 
 /* scss allow pass down of functions, in this case, $color */
 /* code: "sass variables.scss variables.css" to compile scss into css"*/
+/* code: "sacc --watch variables.scss:variables.css" to auto compile everytime you update scss */
 ul {
     font-size: 14px;
     color: $color;
