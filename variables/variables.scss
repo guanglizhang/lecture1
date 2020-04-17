@@ -1,6 +1,7 @@
 $color: red;
 
 /* scss allow pass down of functions, in this case, $color */
+/* code: "sass variables.scss variables.css" to compile scss into css"*/
 ul {
     font-size: 14px;
     color: $color;
