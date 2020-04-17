@@ -1,3 +1,12 @@
+
+/*
+%message defines a general pattern that can be inherited in other 
+style definitions using the @extend %message syntax. 
+In addition, other style properties can be added.
+
+% - specific to %, allow us to define a template
+*/
+
 %message {
     font-family: sans-serif;
     font-size: 18px;
