@@ -1,5 +1,6 @@
 $color: red;
 
+/* scss allow pass down of functions, in this case, $color */
 ul {
     font-size: 14px;
     color: $color;
